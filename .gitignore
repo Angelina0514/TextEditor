@@ -1,0 +1,20 @@
+# 编译产物
+build/
+debug/
+release/
+*.o
+*.obj
+*.exe
+Makefile
+Makefile.*
+.qmake.stash
+moc_*
+ui_*.h
+qrc_*.cpp
+
+# Qt Creator 用户配置
+*.user
+*.user.*
+
+# 临时脚本（非项目源码）
+fill_report.py
